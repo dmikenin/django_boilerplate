@@ -1,11 +1,11 @@
-#Django boilerplate
+# Django boilerplate
 
-#Description
+# Description
 
 You want fast start develop project with Django 3, bit you dont want spent time on prepare, because it boring and not interesting)
 This boilerplate is your solution. Script will create good architecture for develop with important requirements.txt and another useful files. 
 
-#Quick start
+# Quick start
 
 1. Move in folder where you want create project 
 2. Download file django_boilerplate.sh
@@ -16,7 +16,7 @@ This boilerplate is your solution. Script will create good architecture for deve
 7. Rename folder "temp" with settings project on your variant
 8. Add apps in INSTALLED APPS in settings.py
 
-#Requirements for script
+# Requirements for script
 
 - installed python3
 - installed package: pip
@@ -31,7 +31,7 @@ This boilerplate is your solution. Script will create good architecture for deve
 - installed requirements.txt
 
 
-#Architecture of project
+# Architecture of project
 Apps:
 1. api - for views and serializers
 1. admin_service - for manage Django Admin
